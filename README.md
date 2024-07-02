@@ -1,4 +1,5 @@
 # FOOD-SHARE-HUB
+**this is basically a food donation website where those who need food can request for food and those who can donate food they can donate**
 #fetaures
 * user can donate food for those who are in need
 * users can edit delete and update theire donated food 
